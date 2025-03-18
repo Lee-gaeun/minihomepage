@@ -9,6 +9,9 @@
 - navigation.md 추가
 - 로그인 로그아웃 추가
 
+## footer 추가
+- footer.md 추가
+
 ## 취미
 -노래부르기
 
